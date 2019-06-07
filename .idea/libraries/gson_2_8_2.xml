@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gson-2.8.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bootstrap/libs/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bootstrap/libs/openauth-1.0.3-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bootstrap/libs/openlauncherlib-2.1-BOOTSTRAP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bootstrap/libs/s-update-3.1.0-BETA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bootstrap/libs/swinger-1.0.0-BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
